@@ -1,5 +1,7 @@
 ### Charlie Weber 😄  He/Him
 
+https://www.linkedin.com/in/charles-t-weber/
+
 ## Hello! Welcome!
 
 My name is Charlie Weber And I'm currently a student at Epicodus Coding school. My studies include C#/.net as well as JS, HTML, CSS, and many other technologies
